@@ -5,7 +5,9 @@ Oii, eu sou a Yasmin 👋
 - 🌱 aprendendo back-end
 - 📫 contato email: yasmin.goncalves.teixeira.06@gmail.com
 - ⚡ pronomes: ela/dela
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincrf)](https://github.com/yasmincrf/github-readme-stats)
 
+  ##
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Yasmin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +16,6 @@ Oii, eu sou a Yasmin 👋
 </div>
   
   ##
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincrf)](https://github.com/yasmincrf/github-readme-stats)
    
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
