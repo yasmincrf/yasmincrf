@@ -19,10 +19,10 @@ Oii, eu sou a Yasmin 👋
   />
 <img src="https://github-readme-stats.vercel.app/api?username=yasmincrf&show_icons=true" />
 </picture>
+
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincrf)](https://github.com/yasmincrf/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ##
 
 <div style="display: inline_block"><br>
