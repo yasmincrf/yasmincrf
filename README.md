@@ -1,10 +1,9 @@
 Oii, eu sou a Yasmin 👋
 
 
-- 🔭 atualmente trabalhando com front-end
-- 🌱 aprendendo back-end
-- 📫 contato email: yasmin.goncalves.teixeira.06@gmail.com
-- ⚡ pronomes: ela/dela
+- 🔭 atualmente cursando desenvolvimento de sistemas
+- 🌱 aprendendo java, javascript, dart, php, python...
+- ⚡ snap back to reality
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmincrf&show_icons=true&theme=radical)
@@ -18,10 +17,10 @@ Oii, eu sou a Yasmin 👋
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Yasmin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Yasmin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Yasmin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Yasmin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Yasmin-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+<img align="center" alt="Yasmin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Yasmin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   
 </div>
