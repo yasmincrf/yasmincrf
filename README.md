@@ -5,7 +5,20 @@ Oii, eu sou a Yasmin 👋
 - 🌱 aprendendo back-end
 - 📫 contato email: yasmin.goncalves.teixeira.06@gmail.com
 - ⚡ pronomes: ela/dela
-  
+
+##
+
+<picture>
+<source
+    srcset="https://github-readme-stats.vercel.app/api?username=yasmincrf&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+<source
+    srcset="https://github-readme-stats.vercel.app/api?username=yasmincrf&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+<img src="https://github-readme-stats.vercel.app/api?username=yasmincrf&show_icons=true" />
+</picture>
 ##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincrf)](https://github.com/yasmincrf/github-readme-stats)
