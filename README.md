@@ -10,8 +10,8 @@ Oii, eu sou a Yasmin 👋
 
 <picture>
 <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yasmincrf&show_icons=true&theme-tokyonight"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=yasmincrf&show_icons=true&theme-synthwave"
+    media="(prefers-color-scheme: synthwave)"
   />
 <source
     srcset="https://github-readme-stats.vercel.app/api?username=yasmincrf&show_icons=true"
@@ -22,7 +22,7 @@ Oii, eu sou a Yasmin 👋
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincrf&layout=pie)](https://github.com/yasmincrf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincrf&layout=pie&theme-dark)](https://github.com/yasmincrf/github-readme-stats)
 
 ##
 
