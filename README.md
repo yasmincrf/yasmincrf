@@ -10,7 +10,7 @@ Oii, eu sou a Yasmin 👋
 
 <picture>
 <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yasmincrf&show_icons=true&theme-synthwave"
+    srcset="https://github-readme-stats.vercel.app/api?username=yasmincrf&show_icons=true&theme-dracula"
     media="(prefers-color-scheme: synthwave)"
   />
 <source
