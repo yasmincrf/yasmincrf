@@ -12,6 +12,7 @@ Oii, eu sou a Yasmin 👋
 
 ##
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincrf&hide_progress=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincrf&layout=pie)](https://github.com/yasmincrf/github-readme-stats)
 
 ##
