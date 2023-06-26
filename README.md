@@ -10,8 +10,8 @@ Oii, eu sou a Yasmin 👋
 
 <picture>
 <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yasmincrf&show_icons=true&theme-dracula"
-    media="(prefers-color-scheme: synthwave)"
+    srcset="https://github-readme-stats.vercel.app/api?username=yasmincrf&show_icons=true&theme-dark"
+    media="(prefers-color-scheme: dark)"
   />
 <source
     srcset="https://github-readme-stats.vercel.app/api?username=yasmincrf&show_icons=true"
@@ -21,8 +21,8 @@ Oii, eu sou a Yasmin 👋
 </picture>
 
 ##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincrf&layout=pie&theme-dark)](https://github.com/yasmincrf/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincrf&layout=pie)](https://github.com/yasmincrf/github-readme-stats)
 
 ##
 
