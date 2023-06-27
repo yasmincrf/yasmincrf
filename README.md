@@ -1,4 +1,4 @@
-Oii, eu sou a Yasmin 👋
+Oii, eu sou a Yasmin 
 
 
 - 🔭 atualmente cursando desenvolvimento de sistemas
