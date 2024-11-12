@@ -1,7 +1,7 @@
-Oii, eu sou a Yasmin 
+oii, eu sou a yasmin 
 
 
-- 🔭 atualmente cursando desenvolvimento de sistemas
+- 🔭 atualmente estudando programação
 - 🌱 aprendendo java, javascript, dart, php, python...
 - ⚡ snap back to reality
 
